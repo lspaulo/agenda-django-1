@@ -1,0 +1,1 @@
+Comando para iniciar projeto django: django-admin startproject project .
