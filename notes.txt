@@ -1,1 +1,7 @@
 Comando para iniciar projeto django: django-admin startproject project .
+
+
+
+
+cbwc97k5ptZu8ffZiysV
+%VE!3SgW99
