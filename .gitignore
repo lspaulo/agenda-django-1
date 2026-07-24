@@ -9,6 +9,12 @@ static/
 media/
 project/local_settings.py
 
+# Outhers
+gunicorn copy.txt
+gunicorn.txt
+nginx-http.txt
+SERVER.md
+
 # Backup files # 
 *.bak 
 
