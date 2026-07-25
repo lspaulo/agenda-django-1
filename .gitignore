@@ -13,6 +13,8 @@ project/local_settings.py
 gunicorn copy.txt
 gunicorn.txt
 nginx-http.txt
+nginx-https.txt
+nginx-http copy.txt
 SERVER.md
 notas.txt
 
