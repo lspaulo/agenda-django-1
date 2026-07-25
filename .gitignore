@@ -14,6 +14,7 @@ gunicorn copy.txt
 gunicorn.txt
 nginx-http.txt
 SERVER.md
+notas.txt
 
 # Backup files # 
 *.bak 
