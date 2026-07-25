@@ -9,7 +9,7 @@ static/
 media/
 project/local_settings.py
 
-# Outhers
+# Others
 gunicorn copy.txt
 gunicorn.txt
 nginx-http.txt
